@@ -6,10 +6,10 @@ import java.net.UnknownHostException;
 public class A {
 
 	public static void main(String[] args) {
-		/*String s = "<p>we are shsjssjksje</p><br/>";
+		String s = "<p>we are shsjssjksje</p><br/>";
 		String[] b = s.replaceAll("<br/>","").trim().split("<p>");
 		System.out.println(b.length);
-		System.out.println(b[0]+""+b[1]);*/
+		System.out.println(b[0]+""+b[1]);
 		
 		// 通过域名----获取服务器主机IP
 		try{
